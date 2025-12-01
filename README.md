@@ -16,15 +16,25 @@ Evaluation using standard performance metrics
 Easy-to-understand and beginner-friendly code
 
 Project Structure
+
 📁 student-performance-predictor
+
 │── data/
+
 │── notebooks/
+
 │── src/
+
 │   ├── preprocess.py
+
 │   ├── train.py
+
 │   ├── evaluate.py
+
 │── app.py (optional for Streamlit/Flask)
+
 │── requirements.txt
+
 │── README.md
 
 Contributions
